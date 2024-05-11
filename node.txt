@@ -1,0 +1,16 @@
+API - Application Programming Interface
+ Api helps any client to communicate with server, it follows http protocol
+ HTTP is a protocal that is used as a medium to make api reuests.
+ Api is nothing but REST API(Representational state Transfer), Rest api uses JSON for data format.
+
+REST Api can transfer data in Json, Text, JS, Html formats, to client to server and vice versa.
+REST API Methods - GET, POST, PUT, DELETE
+
+In request call these are important - Request Headers, Request Body Params, to know from where request is coming and to where and 
+  some additional data.  
+
+Cookie - Cookie is small data,token that is sent from server to client, cookie is stored automatically in clients browser.
+So when the client sends a request to server again, with these request cookie is also sent and server will get to know who is 
+ the client, how many times client and send request, and client details. 
+
+Express - It is open-source npm package, helps in api development, server side applications
